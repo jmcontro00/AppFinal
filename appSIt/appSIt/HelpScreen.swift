@@ -59,7 +59,7 @@ struct HelpScreen: View {
                     VStack(alignment: .leading, spacing: 10) {
                         Text("¿Cómo puedo actualizar un producto?")
                             .font(.system(size: 20, weight: .bold))
-                        Text("Para actualizar un prodcuto en la ventana de agregar, ingresa todos los datos del producto a modificar. El sistema tomara el codigo como referencia y actualizara todos los campos.")
+                        Text("Para actualizar un prodcuto en la ventana de agregar, ingresa todos los datos del producto a modificar. El sistema tomara el código como referencia y actualizara todos los campos.")
                     }
                     
                     VStack(alignment: .leading, spacing: 10) {
@@ -71,13 +71,13 @@ struct HelpScreen: View {
                     VStack(alignment: .leading, spacing: 10) {
                         Text("¿Cómo agrego un nuevo producto?")
                             .font(.system(size: 20, weight: .bold))
-                        Text("Para agregar un nuevo producto dirijiste en el menú principal a Añadir e ingresa los datos de la pieza. Por último haz click en Añadir.\".")
+                        Text("Para agregar un nuevo producto dirígete en el menú principal a Añadir e ingresa los datos de la pieza. Por último haz click en Añadir.\".")
                     }
                     
                     VStack(alignment: .leading, spacing: 10) {
                         Text("¿Cómo veo los productos")
                             .font(.system(size: 20, weight: .bold))
-                        Text("Para visualizar los productos dirijite en el menú principal a la opción de Visualizar.")
+                        Text("Para visualizar los productos dirígete en el menú principal a la opción de Visualizar.")
                     }
                     
                     VStack(alignment: .leading, spacing: 10) {
